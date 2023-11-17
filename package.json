@@ -6,7 +6,12 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["webrtc", "nodejs", "socket.io", "signalling"],
+  "keywords": [
+    "webrtc",
+    "nodejs",
+    "socket.io",
+    "signalling"
+  ],
   "author": "Yash Chudasama",
   "license": "ISC",
   "dependencies": {
